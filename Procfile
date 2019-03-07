@@ -1,1 +1,1 @@
-web
+web: service httpd start

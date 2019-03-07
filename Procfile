@@ -1,1 +1,1 @@
-web: /portal.php
+web: /bWAPP/install.php

@@ -1,1 +1,1 @@
-web: /install.php
+web: /portal.php

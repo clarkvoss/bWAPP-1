@@ -1,1 +1,1 @@
-web: /bwapp/bWAPP/install.php
+web: /etc/init.d/apache2 start

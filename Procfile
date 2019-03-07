@@ -1,1 +1,1 @@
-web: service httpd start
+web: systemctl start httpd.service
